@@ -77,13 +77,13 @@ body{
 
 .mobile::before{
     content: '';
-    width: 160px;
+    width: 140px;
     height: 25px;
     background-color: var(--White);
     border-radius: 0 0 18px 18px;
     position: absolute;
     top: 8px;
-    left: 80px;
+    left: 70px;
 }
 
 .mobile-content{
